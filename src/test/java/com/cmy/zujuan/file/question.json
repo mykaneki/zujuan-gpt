@@ -1,0 +1,86 @@
+{
+  "errorCode": "0",
+  "data": [
+    {
+      "title": "已知\\(\\dfrac{x}{y}=\\dfrac{3}{5}\\)，则\\(\\dfrac{x}{x+y}\\)的值为\\((\\quad)\\)",
+      "option_a": "\\(\\dfrac{2}{5}\\)",
+      "option_b": "\\(\\dfrac{3}{8}\\)",
+      "option_c": "\\(\\dfrac{3}{2}\\)",
+      "option_d": "\\(\\dfrac{2}{3}\\)",
+      "qtpye": "选择题",
+      "diff": "2.00",
+      "year": "2022",
+      "source": "2021-2022学年山东省烟台市龙口市八年级（下）期末数学试卷（五四学制）",
+      "subjectId": "2",
+      "paperTpye": "34",
+      "qid": "9a203094d0a1ae0088473d9ba0be48b8",
+      "isSub": "0",
+      "isNormal": "1",
+      "isunique": "1",
+      "id": "31270190",
+      "knowledgeMore": [
+        {
+          "id": "20408",
+          "knowledgeName": "比例的性质",
+          "knowledgeId": "215755794610B6B55E6A27F3F200BB50"
+        }
+      ]
+    },
+    {
+      "title": "已知\\(\\dfrac{x-y}{y}=\\dfrac{3}{2}\\)，则\\(\\dfrac{x}{y}\\)的值是______.",
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "qtpye": "填空题",
+      "diff": "2.00",
+      "year": "2022",
+      "source": "2022-2023学年上海市奉贤区七校联考九年级（上）期中数学试卷",
+      "subjectId": "2",
+      "paperTpye": "35",
+      "qid": "0452fe50247538762f6ad726a6a59690",
+      "isSub": "0",
+      "isNormal": "0",
+      "isunique": "0",
+      "id": "31281306",
+      "knowledgeMore": [
+        {
+          "id": "20408",
+          "knowledgeName": "比例的性质",
+          "knowledgeId": "215755794610B6B55E6A27F3F200BB50"
+        }
+      ]
+    },
+    {
+      "title": "已知\\(\\dfrac{a}{b}=\\dfrac{c}{d}=\\dfrac{3}{2}\\)，\\((b+d≠0)\\)，则\\(\\dfrac{a+c}{b+d}=\\)______.",
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "qtpye": "填空题",
+      "diff": "2.00",
+      "year": "2022",
+      "source": "2022-2023学年山东省青岛市黄岛区、胶州市、平度市、西海岸新区九年级（上）期中数学试卷",
+      "subjectId": "2",
+      "paperTpye": "35",
+      "qid": "2da3fe01726318bf4483a5a3f1952465",
+      "isSub": "0",
+      "isNormal": "0",
+      "isunique": "0",
+      "id": "31297058",
+      "knowledgeMore": [
+        {
+          "id": "20408",
+          "knowledgeName": "比例的性质",
+          "knowledgeId": "215755794610B6B55E6A27F3F200BB50"
+        },
+        {
+          "id": "20409",
+          "knowledgeName": "比例线段",
+          "knowledgeId": "806C0BF65A5CC8E89564AC7391BB3F76"
+        }
+      ]
+    }
+  ],
+  "dataCount": "7443"
+}

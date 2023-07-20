@@ -1,0 +1,33 @@
+{
+    "errorCode": "0",
+    "data": [
+        {
+            "title": "若\\(\\dfrac{y}{x}=\\dfrac{3}{4}\\)，则\\(\\dfrac{2x-y}{x}=\\)______.",
+            "option_a": "",
+            "option_b": "",
+            "option_c": "",
+            "option_d": "",
+            "qtpye": "填空题",
+            "diff": "2.00",
+            "year": "2022",
+            "source": "2021-2022学年湖北省武汉二中广雅中学九年级（下）月考数学试卷（3月份）",
+            "subjectId": "2",
+            "paperTpye": "36",
+            "answer1": "",
+            "answer2": "<img style=\"width:100%\" src=\"https://img.cuotixue.com/keyimages/2/2022/400/xuekubao5/3985e170-867e-11ed-bd8a-b42e9921e93e_xkb285.png\" />",
+            "parse": "<div>解：\\(∵\\dfrac{y}{x}=\\dfrac{3}{4}\\)，<br />\\(∴\\dfrac{2x-y}{x}=2-\\dfrac{y}{x}\\)<br />\\(=2-\\dfrac{3}{4}\\)<br />\\(=\\dfrac{5}{4}\\)，<br />故答案为：\\(\\dfrac{5}{4}.\\)<br />根据比例的性质，进行计算即可解答．<br />本题考查了比例的性质，熟练掌握比例的性质是解题的关键．</div>",
+            "qid": "577c214ea921b031f932c5de6a44dbd5",
+            "isSub": "0",
+            "isNormal": "0",
+            "isunique": "0",
+            "id": "31258288",
+            "knowledgeMore": [
+                {
+                    "id": "20408",
+                    "knowledgeName": "比例的性质",
+                    "knowledgeId": "215755794610B6B55E6A27F3F200BB50"
+                }
+            ]
+        }
+    ]
+}

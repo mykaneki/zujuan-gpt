@@ -1,0 +1,10 @@
+server:
+  port: 8081
+  # OpenAI GPT-4 API
+openai:
+  api-key: app-6LhXHWs7yNAtL5Os1O3o8zxv
+  api-endpoint: https://api.dify.ai/v1/chat-messages
+  # Xuekubao API
+xuekubao:
+  api-key: bda6410ed7bb412d5f172ca9b9566e4b
+  api-endpoint: https://www.xuekubao.com/index.php
